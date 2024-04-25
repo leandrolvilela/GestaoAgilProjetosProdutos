@@ -1,0 +1,1 @@
+Finalizar recursos essenciais para a execução do evento e adicionar funcionalidades de importação de convidados.
