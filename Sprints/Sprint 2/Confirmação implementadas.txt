@@ -1,0 +1,1 @@
+Implementar funcionalidades relacionadas à confirmação e gerenciamento de convidados.
