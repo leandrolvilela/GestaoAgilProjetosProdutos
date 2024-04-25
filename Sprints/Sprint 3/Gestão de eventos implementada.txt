@@ -1,0 +1,1 @@
+Adicionar funcionalidades de gestão de eventos e exportação de dados
