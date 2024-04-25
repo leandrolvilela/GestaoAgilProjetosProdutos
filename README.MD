@@ -1,8 +1,13 @@
+Sistema Festiva - Lista de presença para Eventos
 
 
 
-Sprints do Projeto
+Como estão organizado o repositório:
 
-https://hereisresolve.atlassian.net/jira/software/projects/PPR/boards/1/backlog?selectedIssue=PPR-14&atlOrigin=eyJpIjoiNjk0YTEwYjdmYThlNGVjM2FmNThlMmU5Njg5MGRmNjciLCJwIjoiaiJ9
+Pastas
 
-https://hereisresolve.atlassian.net/jira/software/projects/PPR/boards/1/backlog
+Sprint: Encontrada-se as histórias de usuários e Sprints
+
+
+
+
