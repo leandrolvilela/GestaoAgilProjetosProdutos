@@ -2,7 +2,7 @@ Sistema Festiva - Lista de presença para Eventos
 
 
 
-Como estão organizado o repositório:
+Como estão organizado os arquivos no repositório
 
 Pastas:
 
