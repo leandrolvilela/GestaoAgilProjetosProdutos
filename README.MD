@@ -6,6 +6,7 @@ Como estão organizado o repositório:
 
 Pastas:
 Sprint    = Encontra-se as histórias de usuários e Sprints
+
 Wireframe = Encontra-se os mockup do sistema
 
 
