@@ -12,7 +12,10 @@ Wireframe = Encontra-se os mockup do sistema
 
 
 
-Link:
+Links:
 
 Endereço para acessar a LEAN INCEPTION
 https://miro.com/app/board/uXjVKYMgfUg=/?share_link_id=751465503710
+
+Vídeo de Demonstração
+https://youtu.be/WmVd6FYWH1Q
